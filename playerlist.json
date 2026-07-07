@@ -117,7 +117,7 @@
     },
     {
       "userId": "4C59DC1F38CB6181",
-      "label": " HARD CHEAT | Seralyth",
+      "label": "HARD CHEAT | Seralyth",
       "color": "#440000"
     },
     {
@@ -127,7 +127,17 @@
     },
     {
       "userId": "F47C57F5B914481D",
-      "label": " TOXIC + MENTEUR",
+      "label": "TOXIC + MENTEUR",
+      "color": "#440000"
+    },
+    {
+      "userId": "50B07B2245A50167",
+      "label": "CHEATER MOD MENU",
+      "color": "#440000"
+    },
+    {
+      "userId": "F0A4BB851F981848",
+      "label": "TENTATIVE DE DOX TWILIGHT MDR",
       "color": "#440000"
     }
   ]
